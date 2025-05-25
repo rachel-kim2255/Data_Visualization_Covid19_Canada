@@ -1,18 +1,15 @@
-# Data_Visualization
-This repository contains my data visualization projects.
-
 # 🦠 Coivd-19 in Canada  
 **🛠️ Tableau, PowerPoint, Python, SQL**  
 <br>
 📎 Rachel Kim and 3 others  
 📚 Team Project  
 📅 Date: 2025.04  
+👩‍💻 Role: Dashboard design, Preparing PowerPoint Deck  
 <br>
 The dashboard addresses our curiosity about “How Canada was affected by Covid 19”. The dashboard highlights key metrics—confirmed cases, confirmed deaths, severity of infections leading to hospitalization, affected occupations and the gender distribution. Additionally, the dashboard explores positivity of recovery trends. This helps us understand the impact of the pandemic across Canada.    
 <br>
 <br>
-📖 Dashboard Link: https://public.tableau.com/app/profile/ryangwoo.kim/viz/CSIS3860_FinalProject_Group5submission/Dashboard?publish=yes
-<br>
+🎨 Dashboard Link: https://public.tableau.com/app/profile/ryangwoo.kim/viz/CSIS3860_FinalProject_Group5submission/Dashboard?publish=yes  
 <br>
 
 ---
